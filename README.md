@@ -38,7 +38,7 @@ Features you'll see:
 
 ## 🛠️ Tech Stack
 
-- [Next.js 14](https://nextjs.org/) - React Framework
+- [Next.js 15](https://nextjs.org/) - React Framework
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
 - [Framer Motion](https://www.framer.com/motion/) - Animations
 - [Google Fonts](https://fonts.google.com/) - Typography (Outfit)
@@ -47,7 +47,7 @@ Features you'll see:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/coming-soon-app.git
+   git clone https://github.com/mavoio/waitlist-page.git
    ```
 
 2. **Install dependencies**
@@ -92,14 +92,6 @@ coming-soon-app/
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/coming-soon-app/issues).
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
