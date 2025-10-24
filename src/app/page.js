@@ -102,20 +102,20 @@ export default function Home() {
               className="absolute bottom-8 left-8 right-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-white/40"
             >
               <div className="flex items-center gap-1">
-                <p>© 2025 Your Brand</p>
+                <p>© 2025 KynexLabs</p>
                 <span className="mx-2">•</span>
                 <p>Made with ♥ by <a 
-                  href="https://danishfolio.vercel.app" 
+                  href="https://discord.com/users/969258536557244537" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-white hover:text-white/80 transition-colors underline underline-offset-4"
-                >Danish</a>
+                >NighT</a>
                 </p>
               </div>
               <div className="flex gap-6">
-                <a href="#" className="hover:text-white transition-colors">Twitter</a>
-                <a href="#" className="hover:text-white transition-colors">Instagram</a>
-                <a href="#" className="hover:text-white transition-colors">LinkedIn</a>
+                <a href="#" className="hover:text-white transition-colors">Discord</a>
+                <a href="#" className="hover:text-white transition-colors">YouTube</a>
+                <a href="#" className="hover:text-white transition-colors">Trustpilot</a>
               </div>
             </motion.div>
           </motion.main>
