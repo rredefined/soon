@@ -47,12 +47,12 @@ Features you'll see:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mavoio/waitlist-page.git
+   git clone https://github.com/rredefined/soon.git
    ```
 
 2. **Install dependencies**
    ```bash
-   cd coming-soon-app
+   cd soon
    npm install
    ```
 
